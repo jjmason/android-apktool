@@ -1,4 +1,8 @@
 android-apktool
 ===============
 
-Modified version of apktool libraries for android.
+Subset of the [apktool library](https://github.com/brutall/brut.apktool) modified
+for use on android.
+
+Currently only includes resource processing.
+
